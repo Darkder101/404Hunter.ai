@@ -105,13 +105,3 @@ ai_takeover_scanner/
 ```
 
 ---
-
-## ✅ Status: In Progress (Build Phase 1)
-
-* [ ] Subdomain enumeration implemented
-* [ ] DNS + HTTP check in progress
-* [ ] AI logic planned
-
-Stay tuned for weekly progress updates. Once we reach a working MVP, a new README will be created for external users.
-
----
